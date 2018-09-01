@@ -1,0 +1,25 @@
+{
+  "name": "blockchain_notary_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavin771/blockchain-notary-service.git"
+  },
+  "keywords": [
+    "javascript",
+    "blockchain",
+    "notary",
+    "service"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavin771/blockchain-notary-service/issues"
+  },
+  "homepage": "https://github.com/gavin771/blockchain-notary-service#readme"
+}
